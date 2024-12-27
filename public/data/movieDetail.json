@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "name": "Cortez Abbott",
+  "description": "Pariatur nulla officia magna dolor culpa ut. Consectetur duis dolore elit ea ut fugiat ad aute nisi. Proident ullamco Lorem deserunt laboris anim duis. Pariatur nulla officia magna dolor culpa ut. Consectetur duis dolore elit ea ut fugiat ad aute nisi. Proident ullamco Lorem deserunt laboris anim duis.",
+  "duration": "3:18",
+  "rating": 7.341,
+  "poster": "https://cdn.shopify.com/s/files/1/0057/3728/3618/products/c86a76819022e173e45815007c053217_72df0b75-6dde-4f48-8e4d-05be9c912f58_240x360_crop_center.progressive.jpg?v=1573616009",
+  "genre": "action",
+  "trivia": ["Trivia One", "Trivia Two"],
+  "actors": [
+    {
+      "name": "Jack Nicholson",
+      "imdb_id": "nm0000197"
+    },
+    {
+      "name": "George Clooney",
+      "imdb_id": "nm0000123"
+    }
+  ]
+}
