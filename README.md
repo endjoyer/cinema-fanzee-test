@@ -89,3 +89,5 @@ The application fetches movie data from the following JSON files:
 - **Detail Page**: data\movieDetail.json
 
 Make sure to replace the placeholders with the actual URLs of the JSON files.
+
+Task: https://docs.google.com/document/d/1CuxAVnvg3d9uyAPsYH2mf7QcrbOZgv_uqKXRlrJ-SyY/edit?tab=t.0
