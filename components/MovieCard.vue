@@ -34,7 +34,6 @@ const hover = ref(false);
   box-sizing: border-box;
   padding: 12px;
   width: 324px;
-  height: 306px;
   background: #292d32;
   border-radius: 16px;
   transition: transform 0.3s, background 0.3s;
